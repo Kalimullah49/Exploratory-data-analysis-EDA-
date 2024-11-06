@@ -21,10 +21,14 @@ Automated EDA using Ydata Profiling to create a comprehensive report with datase
 **4_Googleplaystore_Eda.ipynb**\
 EDA on Google Play Store data, focusing on insights related to app categories, user ratings, reviews, and overall trends.
 
-_**4a_Googleplaystore_Eda.ipynb**_\
+**4a_Googleplaystore_Eda.ipynb**\
 Extended version of the Google Play Store EDA with deeper analysis and additional visualizations.
 
 **5_Complete_EDA.ipynb**\
 Comprehensive EDA workflow, providing step-by-step guidance from data cleaning to generating actionable insights.
 
+**6_Data_Visualization.ipynb**\
+Visualization techniques using Matplotlib, with practical examples to create informative and aesthetically pleasing charts.
 
+**7_Plotting_Seaborn.ipynb**\
+Exploration of Seaborn’s plotting capabilities, demonstrating various chart types and customization options.
